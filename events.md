@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Events
 subtitle: Events Past and Present
 published: true
 ---
