@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: Raiders of the North Sea
-subtitle: Gather yourcrew and prepare your ship!
+subtitle: Gather your crew and prepare your ship!
 date: '2017-06-05'
 image: posts/rotns.jpg
 ---
