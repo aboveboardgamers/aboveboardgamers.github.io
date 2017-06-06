@@ -5,8 +5,8 @@ subtitle: Who are Dubbo Board Gamers?
 published: true
 ---
 
-We are a motley crew of board game enthusiasts with a few goals:
+We are a motley crew of board game enthusiasts with a vision:
 
-- Introducing Dubbo to the engaging world of board games
-- Nurturing an environment where board gamers can enjoy the hobby
-- Having fun!
+- To introduce Dubbo to the engaging world of board games
+- Nurture an environment where board gamers can enjoy the hobby
+- Have fun!
