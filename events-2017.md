@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2017 Dubbo Gaming Group
+title: 2017 Dubbo Board Gamers
 subtitle: 'Greatest gaming hits of 2017'
 published: true
 ---
