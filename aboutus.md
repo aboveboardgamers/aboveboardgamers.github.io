@@ -5,6 +5,7 @@ subtitle: Who are Dubbo Board Gamers?
 published: true
 ---
 ![cheesy photo]({{site.baseurl}}/img/cheese.jpg)
+
 We are a motley crew of board game enthusiasts with a vision:
 
 - To introduce Dubbo to the engaging world of board games
