@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Let's Play, Dubbo \#1'
+title: 'Let's Play Wednesday'
 subtitle: Begin, be bold, and venture to be wise. -- Horace
 bigimg: /img/firstpost_img.png
 published: true
