@@ -2,7 +2,8 @@
 layout: post
 title: 'Let's Play Wednesday'
 subtitle: Begin, be bold, and venture to be wise. -- Horace
-bigimg: /img/firstpost_img.png
+img: /img/firstpost_img.png
+date: '2017-08-04'
 published: true
 ---
 
