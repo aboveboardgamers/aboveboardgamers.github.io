@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About Us
-subtitle: Who are Dubbo Board Gamers?
+subtitle: Above Board Who?
 published: true
 ---
-![cheesy photo]({{site.baseurl}}/img/cheese.jpg)
+![Above Board Gamers Photo]({{site.baseurl}}/img/abg_logo.jpg)
 
 We are a motley crew of board game enthusiasts with a vision:
 
