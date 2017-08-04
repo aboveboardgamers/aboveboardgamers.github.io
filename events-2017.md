@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 2017 Dubbo Board Gamers
-subtitle: 'Greatest gaming hits of 2017'
+title: Above Board Gamers: Year One
+subtitle: 'Highlights from 2017'
 published: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et ex eget ligula faucibus consequat sed eget odio. Maecenas elementum tellus id posuere tempus. Sed mollis, sem eleifend gravida porttitor, magna urna bibendum lectus, a fringilla ex sapien eu neque. Maecenas sit amet diam vitae justo pretium tincidunt non id lacus. Sed non ipsum nisl. Etiam tempus mauris nec neque aliquet, vel aliquam neque dictum. Proin eget auctor mauris. Duis egestas, tellus eu dapibus tempus, sem leo congue leo, et interdum nunc enim tristique elit. Etiam sit amet felis et risus feugiat sollicitudin ultrices ac erat. Ut est tortor, rhoncus suscipit arcu non, ultricies congue turpis. Phasellus tristique lectus non orci tristique commodo. Duis dapibus maximus consectetur.
+Coming soon.
