@@ -2,7 +2,7 @@
 layout: post
 title: Game Day Wednesday
 subtitle: Begin, be bold, and venture to be wise. -- Horace
-bigimg: /img/firstpost_sm.png
+bigimg: /img/randgames.jpg
 published: true
 ---
 
