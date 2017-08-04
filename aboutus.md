@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About Us
-subtitle: Above Board Who?
+subtitle:
 published: true
 ---
 <!---
 ![Above Board Gamers Photo]({{site.baseurl}}/img/abg_logo.jpg)
 -->
-<img src="aboveboardgamers.github.io/img/abg_logo.jpg" alt="Above Board Gamers Logo" align="middle" style="width: 200px;"/>
+<p style="text-align:center;"><img src="aboveboardgamers.github.io/img/abg_logo.jpg" alt="Above Board Gamers Logo" style="width: 200px;"/><p>
 
 We are a motley crew of board game enthusiasts with a vision:
 
