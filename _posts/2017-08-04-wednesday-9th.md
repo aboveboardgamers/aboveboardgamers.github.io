@@ -2,14 +2,14 @@
 layout: post
 title: 'Let's Play Wednesday'
 subtitle: Begin, be bold, and venture to be wise. -- Horace
-img: /img/firstpost_img.png
+bigimg: /img/firstpost_img.png
 date: '2017-08-04'
 published: true
 ---
 
-The first event of the Above Board Gamers is happening this **Wednesday 9 August**. Come down and experience games of mirth, mayhem, skill, and just a little luck!
+The first event of the Above Board Gamers is happening this **Wednesday 9th August**. Come down and experience games of mirth and mayhem; of skill, and just a little luck!
 
-There are some great easy introductory games, as well as more meaty games for those who want a real challenge. Whether you want to work together to beat the game, or use the game to beat your friends, we have something for you.
+There are some easy introductory games, as well as more meaty games for those who desire more complexity. Whether you want to work together to beat the game, or use the game to beat your friends, we have something for you.
 
 + **Splendor** – build a gem trading empire.
 + **Colt Express** –  a spaghetti western in cardboard.
