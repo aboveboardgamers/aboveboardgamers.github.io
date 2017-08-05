@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://aboveboardgamers.github.io"
+url: "http://aboveboardgamers.club"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -25,7 +25,7 @@ description: Information on board gaming in Dubbo
 navbar-links:
   About Us: "aboutus"
   Events:
-    - 2017: "http://aboveboardgamers.github.io/events-2017"
+    - 2017: "events-2017"
 #    - 2016: "http://aboveboardgamers.github.io/events-2016"
 #  Contact: "contact"
 
