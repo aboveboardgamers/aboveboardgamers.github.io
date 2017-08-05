@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Above Board Gamers - Year One
+title: ABG - Year One
 subtitle: Highlights from 2017
 published: true
 ---
