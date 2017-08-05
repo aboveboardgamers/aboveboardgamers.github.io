@@ -1,1 +1,1 @@
-Web mock up for Dubbo Board Gamers
+This is the website of the Above Board Gamers, based in Dubbo Australia.
