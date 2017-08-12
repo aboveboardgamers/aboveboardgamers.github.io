@@ -24,8 +24,8 @@ description: Information on board gaming in Dubbo
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutus"
-  Events:
-    - 2017: "events-2017"
+#  Events:
+#    - 2017: "events-2017"
 #    - 2016: "http://aboveboardgamers.github.io/events-2016"
 #  Contact: "contact"
 
