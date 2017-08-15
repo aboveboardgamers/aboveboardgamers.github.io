@@ -6,16 +6,16 @@ bigimg: /img/post/spinaweb.jpg
 published: true
 ---
 
-Some time ago, very early on in my so-called 'gaming career' I discovered that thing called eBay. 'Ah,' I thought, running my fingers through my thick , unkempt hair [nb:[^1]], 'This eBay thing could be used to purchase a myriad of cheap games. Also, I have no where else to buy them.'
+Some time ago, very early on in my so-called 'gaming career' I discovered that thing called eBay. 'Ah,' I thought, running my fingers through my thick, unkempt hair [nb:[^1]]. 'This eBay thing could be used to purchase a myriad of cheap games. Also, I have no where else to buy them.'
 
 So that is what I did. My interests at that time lay mainly in war games, having not discovered the subtle joy of taking two small pieces of brown wood and swapping them for a small piece of blue wood. So I purchased a number of war games that had one defining quality, **cheapness**. Or to put it another way:
 
 > Somebody wanted to sell it because they didn't like it, and not many other people wanted to buy it because it wasn't any good.
 
-Hence I ended up with a strange assortment of games ranging from Battle of the Bulge (1965), to Football Strategy (1959), to Balkan Storm (1995). They arrived, intermittently, packaged in everything from padded pouches to reconstructed cereal boxes. I would unpack each one, inspect the usually, depressingly, achingly dull contents,
+Hence I ended up with a strange assortment of games ranging from Battle of the Bulge (1965), to Football Strategy (1959), to Balkan Storm (1995). They arrived, intermittently, packaged in everything from padded pouches to reconstructed cereal boxes. I would unpack each one, inspect the (usually) depressingly, achingly dull contents,
 browse the 8 point font rule book, and then put them on my shelf in historical order. I never played any of them.
 
-This was, to say the least, a horridly inefficient use of my scarce resources. If I was a country I'd be North Korea (at least then I'd have better hair). In order to rectify this I decided to attempt to play as many of these as I could, recording the outcomes in a variously entertaining/trite/undergraduate humour style play reports.
+This was, to say the least, a horridly inefficient use of my scarce resources. If I was a country I'd be North Korea (at least then I'd have better hair). In order to rectify this I decided to attempt to play as many of these as I could, recording the outcomes in variously entertaining, trite, and undergraduate humour style play reports.
 
 There were a few impediments to this plan:
 
@@ -24,7 +24,7 @@ There were a few impediments to this plan:
 - I am a poor rules reader.
 - I have a short attention span
 
-Lastly, I did not genuinely want to play most of them. This is all heightened by the fact I am playing them in my Redback Spider infested garage, where every brush of wind on my legs made me think I was about to die.
+Lastly, I did not genuinely want to play most of them. This was all heightened by the fact I was playing them in my redback spider-infested garage, where every brush of wind on my legs made me think I was about to die.
 
 ![Redback Spider]({{baseurl}}/img/post/redback.jpg)
 
