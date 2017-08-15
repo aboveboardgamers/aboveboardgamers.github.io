@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Playing Ebay - Part One
 subtitle: by Andrew Glassop
 bigimg: /img/post/spinaweb.jpg
