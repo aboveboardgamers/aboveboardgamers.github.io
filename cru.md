@@ -53,7 +53,7 @@ Chaos ensues, with many a plan abandoned due to that fact the person in charge p
 
 The game uses ratios as part of the combat tables, and in the end it turned into a ratio of 1:1 so it was all about even. Another thing the game does in combat is that each player can choose their own battle tactic. This wouldn't make sense for me so I did it randomly---regardless of sense.
 
-Guy impetuously charges while Saladin, perhaps sensing a change in the air, or perhaps now noting the hole in his pantaloons, decides to perform an orderly withdrawal. His troops cry out in despair but he sticks to his guns. Unsurprisingly, it doesn't work and he loses 20% of his men in one swoop. In the mean time, Izzy (of Cairo) attacks an unsuspecting Richard, and boots him all the way to Tripoli. Bloodied but unbowed, (though still a little bit cardboardy) Saladin saw himself as in the lead.
+Guy impetuously charges while Saladin, perhaps sensing a change in the air, or perhaps now noting the hole in his pantaloons, decides to perform an orderly withdrawal. His troops cry out in despair but he sticks to his guns. Unsurprisingly, it doesn't work and he loses 20% of his men in one swoop. In the mean time, Izzy (of Cairo) attacks an unsuspecting Richard, and boots him all the way to Tripoli. Bloodied but unbowed (though still a little bit cardboardy), Saladin saw himself as in the lead.
 
 > Saladin, perhaps sensing a change in the air, or perhaps now noting the hole in his pantaloons, decides to perform an orderly withdrawal.
 
