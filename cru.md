@@ -29,7 +29,7 @@ Somewhere else, I'm guessing Constantinople, more Crusaders, including King Rich
 
 At Antioch, Mansur and Zahir stormed the walls in search of Bohemond, and would have found him if he hadn't already run away to join Richard to compare beard lengths. Down south, Henri de Champagne stayed back in Jaffa with a small guard force, while Otto moved to the otherwise irrelevant Arsuf---an even smaller force in tow---with the idea of retiring for good.
 
-> Otto moved to the otherwise irrelevant Arsuf---an even smaller force in tow---with the idea of retiring for good.
+> They set sail, cocktails at the ready, for al-Marqab.
 
 Saladin picked up a few of Kush's men and marched towards Nablus, hoping to catch the Crusaders at Jerusalem. He suffered horribly on the march, losing a good part of his force. Phillip of France moved out from Tyre, and slowly headed for Castle Beaufort. The Egyptian fleet moved to Jaffa and the Crusader fleet to Tripoli. 
 
