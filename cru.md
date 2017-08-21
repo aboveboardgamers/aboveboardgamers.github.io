@@ -57,10 +57,14 @@ In the next turn, the Crusaders finally took Acre, but my now good mate Kara had
 
 <img src="/img/post/sal.jpg" class="center">
 
-The next turn is momentous! The siege of Saladin continues but it obviously bores the great Muslim general so he (what a guy!) decides to come out and fight while Guy (what a guy!) looks forward to directing what must be another bloodbath. It was. Saladin defends in place (he had to defend some place) while the Crusaders, who appear to have a one track mind, impetuously attack. The result is that Saladin loses another 40% of his men and loses the city. He is in serious trouble. So much trouble, that with at least another year of fighting ahead of him, and no chance of reinforcements, he decides to surrender. Palestine remains in Christian hands and the course of history changes. Not sure if for the better.
+The next turn is momentous! The siege of Saladin continues but it obviously bores the great Muslim general so he (what a guy!) decides to come out and fight while Guy (what a guy!) looks forward to directing what must be another bloodbath. It was. Saladin defends in place (he had to defend some place) while the Crusaders, who appear to have a one track mind, impetuously attack. The result is that Saladin loses another 40% of his men and loses the city.
+
+He is in serious trouble. So much trouble, that with at least another year of fighting ahead of him, and no chance of reinforcements, he decides to surrender. Palestine remains in Christian hands and the course of history changes. Not sure if for the better.
 
 _**And all from my garage**. Amazing!_
 
-So that was the first game. I have never brought it out again because it took me about 3 hours to play, and that was by myself, and I wasn't really paying much attention, and only had scant regard for the more complicated rules. Add in another player and the promised 6 hour play time seems a little on the conservative side. But would I ever play it again? Possibly. I liked the details, the obvious research, the way armies could just march past each other with careless oblivion in the Palestinian dust, and the combat was rather cool (that Mr. Berg knows his way around a combat results table). But the lines of communication look tedious to say the least (I ignored most of them), and the stacking of counters was maddeningly persistent. They were always falling over, like wingers at a Mad Monday do.
+So that was the first game. I have never brought it out again because it took me about 3 hours to play, and that was by myself, and I wasn't really paying much attention, and only had scant regard for the more complicated rules. Add in another player and the promised 6 hour play time seems a little on the conservative side.
+
+But would I ever play it again? Possibly. I liked the details, the obvious research, the way armies could just march past each other with careless oblivion in the Palestinian dust, and the combat was rather cool (that Mr. Berg knows his way around a combat results table). The lines of communication look tedious to say the least (I ignored most of them), and the stacking of counters was maddeningly persistent. They were always falling over, like wingers at a Mad Monday do.
 
 Still, for an oldie it was pretty good.  
