@@ -709,3 +709,10 @@ img.center {
 .gap-left {
   margin-left: 10px
 }
+
+/* clear a float image */
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
