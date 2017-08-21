@@ -2,7 +2,7 @@
 layout: post
 title: Playing Ebay - Part Two
 subtitle: by Andrew Glassop
-bigimg: /img/post/e1190.jpg
+bigimg: /img/post/eu1190.jpg
 published: true
 ---
 
