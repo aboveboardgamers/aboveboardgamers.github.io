@@ -2,7 +2,7 @@
 layout: post
 title: Playing Ebay - Part Two
 subtitle: by Andrew Glassop
-bigimg: /img/post/eu1190.jpg
+bigimg: /img/post/eu1190_s.jpg
 published: true
 ---
 
@@ -47,7 +47,7 @@ Turn five looked grim. While Richard laid siege to Balbek, and Guy continued to 
 
 The Crusaders are somewhat stuck. Their forces are split between north and south, with Guy's army at Ascalon looking in great trouble. He makes a break for it, and heads inland and northwards to escape the dastardly Saracens. Henry abandons Jaffa and also heads north, hoping to make it, but prepared to put up a defence if needed to protect the others. The two Arab armies now dominate the south. In the center, the remnants of the French army moved to take on Acre, also hoping to keep the Saracens busy for a while. It works, leaving poor old Kara-Kush alone in his city. However, Richard still can't take Balbek. What a tool.
 
-Chaos ensues, with many a plan abandoned due to that fact the person in charge probably forgot what he was doing. Everyone turns up in Haifs, where Saladin had to stop due to Henry de Champagne's brave defence, with the bulk of the Crusaders then moving south to meet the expected Saracen attack. **Into the jaws of death!** With Aziz of Cairo joining in it resulted in a 101- 81 army match-up in favour of Saladin. Party in the kitchen or what?
+Chaos ensues, with many a plan abandoned due to that fact the person in charge probably forgot what he was doing. Everyone turns up in Haifs, where Saladin had to stop due to Henry de Champagne's brave defence, with the bulk of the Crusaders then moving south to meet the expected Saracen attack. **Into the jaws of death!** With Aziz of Cairo joining in, the battle resulted in a 101- 81 army match-up in favour of Saladin. Party in the kitchen or what?
 
 The game uses ratios as part of the combat tables, and in the end it turned into a ratio of 1:1 so it was all about even. Another thing the game does in combat is that each player can choose their own battle tactic. This wouldn't make sense for me so I did it randomly---regardless of sense. Guy impetuously charges while Saladin, perhaps sensing a change in the air, or perhaps now noting the hole in his pantaloons, decides to perform an orderly withdrawal. His troops cry out in despair but he sticks to his guns. Unsurprisingly, it doesn't work and he loses 20% of his men in one swoop. In the mean time, Izzy (of Cairo) attacks an unsuspecting Richard, and boots him all the way to Tripoli. Bloodied but unbowed, (though still a little bit cardboardy) Saladin saw himself as in the lead.
 
