@@ -29,6 +29,8 @@ Somewhere else, I'm guessing Constantinople, more Crusaders, including King Rich
 
 At Antioch, Mansur and Zahir stormed the walls in search of Bohemond, and would have found him if he hadn't already run away to join Richard to compare beard lengths. Down south, Henri de Champagne stayed back in Jaffa with a small guard force, while Otto moved to the otherwise irrelevant Arsuf---an even smaller force in tow---with the idea of retiring for good.
 
+> Otto moved to the otherwise irrelevant Arsuf---an even smaller force in tow---with the idea of retiring for good.
+
 Saladin picked up a few of Kush's men and marched towards Nablus, hoping to catch the Crusaders at Jerusalem. He suffered horribly on the march, losing a good part of his force. Phillip of France moved out from Tyre, and slowly headed for Castle Beaufort. The Egyptian fleet moved to Jaffa and the Crusader fleet to Tripoli. 
 
 The end of May came with turn three, and its sweet shower rained only from one side. The Saracen's rolled another assassination attempt and tried for Geoffrey again. Showing great wisdom or perhaps cowardice, he survived this second attempt. Later, from atop a parapet of Castle Krak, Geoffrey of Donjon was overheard muttering, _'This is a really shitty neighbourhood'_.
