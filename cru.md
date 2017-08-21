@@ -16,7 +16,7 @@ The first thing I noticed after set up, was that the Crusaders liked to clump to
 
 Acra was surrounded by our God-directed brave knights, but the army of the even braver Saladin was waiting just around the corner, so the good knights got the updated word from God to run away to Jaffa. A far less dangerous place to siege, victory at Jaffa could open up a path to Jerusalem, and the True Cross (a religious artefact, not a coffee bar). Saladin, meanwhile, marched to Acre to help out his general Kara-Kush, probably disappointed to find no Crusaders there. Also meanwhile, al-Mansur and az-Zahir (also not coffee bars), headed off to try and surround the quite hairy Bohemond in Antioch.
 
-The siege of Jaffa was a non-event, and the city fell to the Crusaders with little resistance. _Mild prayer, and vigorous pillage, signaled the end of an otherwise uneventful __turn one___.
+The siege of Jaffa was a non-event, and the city fell to the Crusaders with little resistance. _Mild prayer, and vigorous pillaging, signaled the end of an otherwise uneventful __turn one___.
 
 <img src="/img/post/cru1.jpg" class="center">
 
@@ -25,7 +25,7 @@ Turn two began with a random event for the Saracens (an event is drawn each turn
 Somewhere else, I'm guessing Constantinople, more Crusaders, including King Richard, were waiting to board boats and head for the Holy Land. However, a squabble broke out amongst Richard's men as they boarded (something to do with who got the top bunks) the end result being only about half of them could fit in. They set sail, cocktails at the ready, for al-Marqab.
 
 <img src="/img/post/crumap.jpg" class="img-responsive pull-right gap-left gap-top gap-bottom">
-
+<br>
 At Antioch, Mansur and Zahir stormed the walls in search of Bohemond, and would have found him if he hadn't run already away to join Richard to compare beard lengths. Down south, Henri de Champagne stayed back in Jaffa with a small guard force, while Otto moved to the otherwise irrelevant Arsuf---an even smaller force in tow---with the idea of retiring for good.
 
 Saladin picked up a few of Kush's men and marched towards Nablus, hoping to catch the Crusaders at Jerusalem. He suffered horribly on the march, losing a good part of his force. Phillip of France moved out from Tyre, and slowly headed for Castle Beaufort. The Egyptian fleet moved to Jaffa and the Crusader fleet to Tripoli. 
@@ -35,6 +35,8 @@ The end of May came with turn three, and its sweet shower rained only from one s
 In the south, Crusaders saw Saladin's dust in the distance but trusted they could avoid him. They couldn't, and the two armies faced each other in battle. Up north, Phillip took Beaufort while Richard headed down with his fleet to Tyre. The Egyptians blockaded Tripoli and the some other minor marches took place but all eyes were on the now named “Battle of the Jerusalem Plain”.
 
 The Crusaders had an army strength of 66 (the brother of the beast!) while Saladin had 64, and was the designated attacker. King Guy, being naturally hotheaded, decided impetuously to charge. The imp! Saladin coolly formed up to outflank them, and it became clear that the Crusaders were in serious trouble. A quarter of the Knights fell on the field of battle. Some because of loose fitting heels, but most because of loosely attached heads, the Crusaders were forced to retreat to Jaffa.
+
+> King Guy, being naturally hotheaded, decided impetuously to charge.  
 
 Turn four, the turn of truth! Disaster again for the Crusaders. No more assassination attempts on Geoffrey of Krak. No, this time Phillip of France decides to go home! That sounds most stereotypical. Meanwhile, Saracen reinforcements arrive, having not argued about sleeping arrangements. Much joy for all in Damascus. Other than that, not much happened. The Crusaders (with King Guy) laid siege to Ascalon, and Richard moved north to make up for the now missing King of France.
 
