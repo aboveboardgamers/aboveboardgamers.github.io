@@ -2,7 +2,7 @@
 layout: post
 title: Playing Ebay - Part Two
 subtitle: by Andrew Glassop
-bigimg: /img/post/europe-1190.jpg
+bigimg: /img/post/e1190.jpg
 published: true
 ---
 
@@ -60,4 +60,6 @@ The next turn is momentous! The siege of Saladin continues but it obviously bore
 
 _**And all from my garage**. Amazing!_
 
-So that was the first game. I have never brought it out again because it took me about 3 hours to play, and that was by myself, and I wasn't really paying much attention, and only had scant regard for the more complicated rules. Add in another player and the promised 6 hour play time seems a little on the conservative side. But would I ever play it again? Possibly. I liked the details, the obvious research, the way armies could just march past each other with careless oblivion in the Palestinian dust, and the combat was rather cool (that Mr. Berg knows his way around a combat results table). But the lines of communication look tedious to say the least (I ignored most of them), and the stacking of counters was maddeningly persistent. They were always falling over, like wingers at a Mad Monday do. Still, for an oldie it was pretty good.  
+So that was the first game. I have never brought it out again because it took me about 3 hours to play, and that was by myself, and I wasn't really paying much attention, and only had scant regard for the more complicated rules. Add in another player and the promised 6 hour play time seems a little on the conservative side. But would I ever play it again? Possibly. I liked the details, the obvious research, the way armies could just march past each other with careless oblivion in the Palestinian dust, and the combat was rather cool (that Mr. Berg knows his way around a combat results table). But the lines of communication look tedious to say the least (I ignored most of them), and the stacking of counters was maddeningly persistent. They were always falling over, like wingers at a Mad Monday do.
+
+Still, for an oldie it was pretty good.  
