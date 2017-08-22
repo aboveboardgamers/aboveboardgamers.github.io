@@ -24,7 +24,7 @@ Turn two began with a random event for the Saracens (an event is drawn each turn
 
 Somewhere else, I'm guessing Constantinople, more Crusaders, including King Richard, were waiting to board boats and head for the Holy Land. However, a squabble broke out amongst Richard's men as they boarded (something to do with who got the top bunks) the end result is only about half of them could fit in. They set sail, cocktails at the ready, for al-Marqab.
 
-<img src="/img/post/crumap.jpg" class="img-responsive pull-right gap-left gap-top gap-bottom">
+<img src="/img/post/crumap.jpg" class="img-responsive pull-right isright">
 
 
 At Antioch, Mansur and Zahir stormed the walls in search of Bohemond and would have found him if he hadn't already run away to join Richard to compare beard lengths. Down south, Henri de Champagne stayed back in Jaffa with a small guard force, while Otto moved to the otherwise irrelevant Arsuf---an even smaller force in tow---with the idea of retiring for good.

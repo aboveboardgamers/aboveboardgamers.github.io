@@ -686,28 +686,25 @@ td.gutter {
 
 /* --- My Adds --- */
 
-/* center the image */
+/* put the image where */
 img.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-/* for use with floating */
-.gap-right {
-  margin-right: 10px
+img.isright {
+  display: block;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
-.gap-top {
-  margin-top: 10px
-}
-
-.gap-bottom {
-  margin-top: 10px
-}
-
-.gap-left {
-  margin-left: 10px
+img.isleft {
+  display: block;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 /* clear a float image */
