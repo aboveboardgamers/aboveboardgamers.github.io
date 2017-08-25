@@ -6,7 +6,7 @@ bigimg: /img/post/eu1190_s.jpg
 published: true
 ---
 
-The Crusades, by Richard Berg, was published in 1978 by SPI. In his former life Mr. Berg designed fonts for the legal industry, perfecting in 1972, a font so small it could only be read via an Electron Scanning Microscope. This is the font used on the counters of The Crusades. After set-up---and a short stint in the hospital for corrective eye surgery---I was ready to play the shorter scenario.
+The Crusades, by Richard Berg, was published in 1978 by SPI. In his former life Mr. Berg designed fonts for the legal industry, perfecting in 1972, a font so small it could only be read via an Scanning electron microscope. This is the font used on the counters of The Crusades. After set-up---and a short stint in the hospital for corrective eye surgery---I was ready to play the shorter scenario.
 
 This scenario is of the Third Crusade (the pop-culture poster-child of the Crusades), and features Saladin, Richard the Lionheart, Bohemond, and Guy! They fight over land so ancient it first appeared as a joke at a Johnny Farnham concert! How could it get any better!
 
