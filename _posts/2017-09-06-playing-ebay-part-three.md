@@ -12,7 +12,7 @@ When I was a young 'un, I played Rugby League for my school. My school had a cra
 
 “Why Sir?” replied our captain.
 
-“Because at least that way there's a chance one of the bastards will trip over you,” he roared. And with that, he strode off. We never saw him again.* We couldn't beat other teams, but by God, we could beat a coach.
+“Because at least that way there's a chance one of the bastards will trip over you,” he roared. And with that, he strode off. We never saw him again.[^1]
 
 Now the thing about this type of Rugby League is that, like many contact sports, it really sucks at times. Especially if you are no good. Walking out onto the field facing people twice your size knowing that for the next 80 minutes they'll be using your head as a mini-trampoline, induced at times, a near zombie-like feeling of despair. None of us really knew why we carried on.
 
@@ -28,7 +28,7 @@ And the rule book itself was no beauty. A mere four short pages with no pretty p
 
 The rule book says that it is an excellent solitaire game, and so it is, as I imagine that it is as much fun as with one as it would be with two, or for that matter four.
 
-![Some football teams]({{baseurl}}/img/post/nfl_2.jpg){: .img.center }
+![Some football teams]({{baseurl}}/img/post/nfl2.jpg){: .img.center }
 
 The solitaire game run likes this. The offence (me) chooses a play by selecting a card. I only have 10 to choose from so it isn't exactly a strain. My favourite is the flair pass, though I have no idea what it is and the game makes no attempt to instruct me on this matter. The defence (also me) then turns over a random defence card, and we both (still me) consult the table and move the little football up and down the little football field. I then jot down how many seconds that took (never enough in my opinion) and do it again. It is as much like work as any game could possibly get. Eventually a team scores but I can't bring myself to care which one. After 10 minutes I had blown through a whole half, the score was 14 – 7 but, as with my school football coach, I simply had to walk away.
 
@@ -43,3 +43,6 @@ I don't quite know what it means. Why would the ref conspire with the colour men
 *Why did I purchase such a determinedly dud of a game?* I remembered at uni buying this ***type*** of game with my flatmate. It was big, the rule book dense and obtuse, and was a complicated puzzle type of thing that seemed to involve dense stacks of information about famous college teams from decades past and no actual game play. It was an impenetrable mess. So I bought it for the nostalgia of buying what I thought was the very same game.
 
 It wasn't. But it was just as bad.
+
+
+ [^1]: We couldn't beat other teams, but by God, we could beat a coach.
