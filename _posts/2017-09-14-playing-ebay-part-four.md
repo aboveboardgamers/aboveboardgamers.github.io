@@ -2,7 +2,7 @@
 layout: post
 title: "Fire Power: An After Action Report"
 subtitle: by Andrew Glassop
-bigimg: /img/post/field.jpg
+bigimg: /img/post/field.JPG
 published: true
 ---
 
