@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Fire Power: An After Action Report"
 subtitle: by Andrew Glassop
 bigimg: /img/post/field.JPG
