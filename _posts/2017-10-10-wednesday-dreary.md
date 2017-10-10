@@ -5,4 +5,4 @@ subtitle: Bring chips.
 bigimg: /img/post/distant-thunder-rein-nomm.jpg
 published: true
 ---
-It's a dreary Wednesday night in October. The distant thunder rolling reminds you of a deeply held need: your need for manipulating shiny cardboard bits. __Get it from 6 pm onwards__.
+It's a dreary Wednesday night in October. The distant thunder rolling reminds you of a deeply held need: your need for manipulating shiny cardboard bits. __Get it this Wednesday the 11th from 6 pm onwards__.
